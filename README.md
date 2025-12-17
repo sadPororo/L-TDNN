@@ -107,12 +107,12 @@ $ ./src/run.sh
 * Adjusting hyperparameters directly by command.
 ```bash
 $ python ./src/main.py -h
-usage: main.py [1-action] [2-data] [3-model] [-h]
+usage: main.py [1-action] [2-data] [3-model folder] [-h]
 
 positional arguments (required):
   [1] action:  {train,eval}
   [2] data  :  {VCTK,LibriSpeech,Vox1,Vox2}
-  [3] model :  {X-vector,ECAPA-TDNN,SincNet,ExploreWV2,FinetuneWV2,UniPool}
+  [3] model :  {X-vector,ECAPA-TDNN,SincNet,ExploreWV2,FinetuneWV2,L-TDNN_ECAPA}
 
 optional arguments in general:
   -h, --help                 show this help message and exit
