@@ -1,10 +1,11 @@
 # Layer-aware TDNN: Speaker Recognition Using Multi-Layer Features from Pre-Trained Models (2026 ICAIIC)
 We share a PyTorch implementation of our experiments here.
 
-The figure below overviews the proposed framework to pool speaker embedding from the multi-layered nature of pre-trained models.
 <p align="center">
-<img src="/img/Fig-Overall_framework_v0.png" width="900" height="290">
+<img src="/img/data_pipeline_overview.png" width="900" height="400">
 </p>
+The figure above overviews the proposed framework (a & c) to pool speaker embedding from the multi-layered nature of pre-trained models.    
+<br></br>
 
 ## Environment Supports & Python Requirements
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04+-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)
