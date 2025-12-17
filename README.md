@@ -8,7 +8,7 @@ The figure below overviews the proposed framework to pool speaker embedding from
 
 ## Environment Supports & Python Requirements
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04+-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![Python](https://img.shields.io/badge/Python-3.8.8-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3.10.13-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12.0_&_2.6.0-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=%23EE4C2C)
 * We recommend you to visit [Previous Versions (v1.12.0)](https://pytorch.org/get-started/previous-versions/#v1120) for **PyTorch** installation including torchaudio==0.12.0.    
 _[2025.12.17 update] A new code implementation is powered by_ [PyTorch v2.6.0](https://pytorch.org/get-started/previous-versions/#v260).
