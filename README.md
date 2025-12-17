@@ -140,6 +140,13 @@ CUDA_VISIBLE_DEVICES=0 python ./src/main.py eval Vox1 _ --eval_path DIR_NAME;
 
 ## Citation  
 ```bash
+@article{kim2024layer,
+  title={Layer-aware TDNN: Speaker Recognition Using Multi-Layer Features from Pre-Trained Models},
+  author={Kim, Jin Sob and Park, Hyun Joon and Shin, Wooseok and Yun, Juan and Han, Sung Won},
+  journal={arXiv preprint arXiv.2409.07770v2},
+  year={2024}
+}
+
 @article{kim2024universal,
   title={Universal Pooling Method of Multi-layer Features from Pretrained Models for Speaker Verification},
   author={Kim, Jin Sob and Park, Hyun Joon and Shin, Wooseok and Han, Sung Won},
